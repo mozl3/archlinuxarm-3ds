@@ -42,4 +42,5 @@ Example with 2GB SD:
 # cd /mnt
 # sh chroot.sh
 ```
+
 # TODO: Building ALARM tarball manually (check scripts/create.sh for now)
