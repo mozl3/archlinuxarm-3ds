@@ -1,3 +1,4 @@
+Moved [here](https://github.com/mozl3/sd-linux-3ds)
 # archlinuxarm-3ds
 Archlinux Arm on 3DS
 
